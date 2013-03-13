@@ -1,4 +1,4 @@
 libacubes
 =========
 
-Split a 3D area in subcubes recursivelly
+Split a 3D area in adaptive subcubes recursivelly
